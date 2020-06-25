@@ -1,0 +1,29 @@
+_repo: Aaro_62433
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Sauramo, Lauri
+    - Soininen, L.
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
+description: ''
+gutenberg_issued: '2020-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62433'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: Aaro
+url: http://www.gutenberg.org/ebooks/62433
